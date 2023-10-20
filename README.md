@@ -9,10 +9,11 @@
 
 You can use my efi to install macOS for MSI MAG B660M Mortar Wifi/Non-Wifi D4/D5!
 
-### macOS versions tested
+### macOS versions
 
 - macOS Sonoma 14.0
 - macOS Ventura 13.6
+- macOS Monterey 12.6 (not tested but may work)
 
 ### Bootloader
 
@@ -82,6 +83,17 @@ I maked 2 EFIs depend on wifi card
 
 ### Notes
 
+[OC Auxiliary Tools](https://github.com/ic005k/OCAuxiliaryTools) can help you edit config.plist!
+
+#### Platform Info
+
+You need to re-generate your smbios information for iservice (appleid/imessage/facetime) and check serial number first!
+
+![image](./Images/smbios.png)
+
+Vietnamese guide: [vnohackintosh](https://vnohackintosh.com/docs/post-install/fixing-iservices#ki%E1%BB%83m-tra-serial-number)
+
+
 #### USB Ports
 
 If you have some usb ports don't work, let's remap usb with [USBToolBox](https://github.com/USBToolBox/tool)
@@ -92,7 +104,7 @@ Vietnamese guide: [vnohackintosh](https://vnohackintosh.com/docs/post-install/us
 - If you use a Polaris GPU like RX 560/570/580, remove `agdpmod=pikera` in `boot-args`
 - If you use a Navi GPU like RX 6600XT/6800XT/6900XT, don't need to do anything!
 
-#### CPU:
+#### CPU
 
 If you use another 12th/13th CPU, change your CPU name:
 
@@ -102,7 +114,6 @@ If your CPU have more than 8 core (like i5-12600K or above), change **ProcesserT
 
 ![image](./Images/CPU-Type.png)
 
-[OC Auxiliary Tools](https://github.com/ic005k/OCAuxiliaryTools) can help you edit config.plist!
 
 ## Results
 
