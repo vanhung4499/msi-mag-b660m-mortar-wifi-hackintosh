@@ -82,6 +82,7 @@ I maked 2 EFIs depend on wifi card
 #### USB Ports
 
 If you have some usb ports don't work, let's remap usb with [USBToolBox](https://github.com/USBToolBox/tool)
+Vietnamese guide: [vnohackintosh](https://vnohackintosh.com/docs/post-install/usb-mapping)
 
 #### GPU
 
@@ -141,7 +142,8 @@ Everything work properly!
 - [Acidanthera](https://github.com/acidanthera) for OpenCore and all the lovely hackintosh work.
 - [Apple](https://apple.com) for macOS.
 - [Dortania](https://github.com/dortania)
-- [VNOHackintosh](https://www.facebook.com/groups/vnohackintosh)
+- [VNOHackintosh](https://vnohackintosh.com)
+- [VNOHackintosh Group](https://www.facebook.com/groups/vnohackintosh)
 - [Hackintool](https://github.com/headkaze/Hackintool)
 
 ## Contact Me
