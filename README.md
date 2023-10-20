@@ -2,6 +2,9 @@
 
 ## Information
 
+![image](./Images/Sonoma-Screen.png)
+
+
 ### Compatibility
 
 You can use my efi to install macOS for MSI MAG B660M Mortar Wifi/Non-Wifi D4/D5!
@@ -118,13 +121,8 @@ Everything work properly!
 - [x] Sleep/Wake
 - [x] NVRAM
 
-### ScreenShots
-
-- Sonoma
-
-![image](./Images/Sonoma-Screen.png)
-
 ### Geekbench Scores
+
 - Geekbench 6 CPU i5-12400F Score
 
 ![image](./Images/Geekbench6-CPU.png)
