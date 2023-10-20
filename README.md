@@ -134,7 +134,7 @@ Everything work properly!
 
 - Geekbench 6 OpenCL Score
 
-![image](./Images/Geekbench6-Opencl.png)
+![image](./Images/Geekbench6-OpenCL.png)
 
 ## Credits
 
